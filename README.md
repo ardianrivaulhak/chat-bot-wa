@@ -1,1 +1,2 @@
-# chat-bot-wa
+SET UP DOCKER 
+
